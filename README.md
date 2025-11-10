@@ -86,4 +86,4 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
 
 ---
     <br>
-  <b>Note:</b> Top languages are only a metric for the languages my public code consists of, and doesn't reflect experience or skill level..
+  <b>Note:</b> Top languages are only a metric for the languages my public code consists of, and doesn't reflect experience or skill level.
