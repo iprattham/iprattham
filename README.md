@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iprattham&label=Profile%20views&color=green&style=flat" alt="iprattham"/> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/prathamaggarwal/" target="blank"><img src="https://img.shields.io/badge/know%20me-more!-me?style=for-the-badge&logo=linkedin&labelColor=hex&color=orange&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprathamaggarwal%2F" alt="prathamaggarwal"/></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/prathamaggarwal/" target="blank"><img src="https://img.shields.io/badge/Know%20Me-More!-me?style=flat&logo=linkedin&labelColor=hex&color=FF5722&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fprathamaggarwal%2F" width="120" alt="prathamaggarwal"/></a> </p>
 
 ### 💫 About Me:
 
