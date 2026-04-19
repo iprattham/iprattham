@@ -70,7 +70,7 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iprattham&theme=juicyfresh&rank=-Reviews&margin-w=5&margin-h=5)](https://github-profile-trophy.vercel.app/?username=iprattham&theme=juicyfresh&margin-w=15&margin-h=15)
+[![Pratham's Trophies](https://github-profile-trophy.vercel.app/?username=iprattham&theme=juicyfresh&rank=-Reviews&margin-w=5&margin-h=5)](https://github-profile-trophy.vercel.app/?username=iprattham&theme=juicyfresh&margin-w=15&margin-h=15)
 
 </div>
 
